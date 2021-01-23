@@ -1,0 +1,53 @@
+body{
+	font-family: arial, helvetica;
+	background: url(magson.jpg);
+	
+}
+
+	
+.menu{
+	list-style: none; 
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: black;
+		
+}
+.menu li{
+	display: inline-block;
+	text-align:center;
+	
+}
+.menu li a:hover{
+	background: red
+}
+
+h2{
+	color:red;
+	
+}
+h3{
+	color:red;
+}
+
+p{
+	color:red;
+}
+li{
+	color:red;
+}
+dd{
+	color:red;
+	
+value{
+	color:red;
+}
